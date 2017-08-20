@@ -1,4 +1,4 @@
 # thread_safe
-Import and cd to folder were project is cloned or downloaded
-run mvn clean install
-run the ThreadSafe.java to run the application
+1) Import and cd to folder were project is cloned or downloaded
+2) run mvn clean install
+3) run the ThreadSafe.java to run the application
